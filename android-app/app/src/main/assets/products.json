@@ -1,0 +1,5 @@
+[
+  { "id": "1", "name": "示例产品 A", "description": "这是产品 A 的描述。" },
+  { "id": "2", "name": "示例产品 B", "description": "这是产品 B 的描述。" },
+  { "id": "3", "name": "示例产品 C", "description": "这是产品 C 的描述。" }
+]
